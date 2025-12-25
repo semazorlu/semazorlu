@@ -50,11 +50,3 @@ Based in Turkey, I am a **Computer Engineering graduate** (2025) focused on back
 | **⚡ Dynamic CMS**<br>*(Freelance)* | `.NET 8.0` `MVC` `MSSQL` | Custom admin dashboard and content management system built with **Monolithic Architecture** and **Code-First** approach. |
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=semazorlu&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f&icon_color=3399FF" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semazorlu&layout=compact&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f" height="150" alt="languages" />
-</div>
