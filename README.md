@@ -24,7 +24,6 @@
 Based in Turkey, I am a **Computer Engineering graduate** (2025) focused on backend technologies. I enjoy solving complex problems using **Onion Architecture**, **CQRS**, and **Microservices** principles. My passion lies in creating efficient, well-documented, and sustainable software solutions.
 
 * 🔭 I’m currently working on **Advanced .NET Core Applications**
-* 🌱 I’m currently learning **Cloud Architecture & Scalable Systems**
 * 🏆 **Achievements:**
     * **TÜBİTAK Support:** AI-Powered Virtual Assistant Project
     * **TEKNOFEST Finalist (2022):** Model Satellite Competition
