@@ -1,63 +1,60 @@
-### Hi there, I'm Sema! 👋
+<div align="center">
 
-I am a **Computer Engineering graduate** passionate about building scalable, clean, and efficient backend systems. I specialize in **.NET Technologies** and modernize architectural patterns like **Onion Architecture** and **CQRS**.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hello!+I'm+Sema+Nur+Zorlu;Computer+Engineer;Backend+Developer+(.NET);Tech+Enthusiast" alt="Typing SVG" />
 
-My goal is to design robust software solutions that solve real-world problems, from AI-powered assistants to complex CRM platforms.
+  <p align="center">
+    <i>Building scalable backends, exploring modern architectures, and turning coffee into code. ☕</i>
+  </p>
 
----
+  <a href="LINKEDIN_PROFIL_LINKINI_BURAYA_YAZ" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:semanurrzorlu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-### 🚀 About Me
-- 🎓 **Education:** BSc in Computer Engineering at Karabük University (2025).
-- 💻 **Current Focus:** Advanced Backend Development with **ASP.NET Core **, **Entity Framework**, and **Microservices**.
-- 🏆 **Highlights:**
-    - **TÜBİTAK Supported Project:** Developed an AI-powered virtual assistant for the Ancient City of Hadrianopolis.
-    - **TEKNOFEST Finalist (2022):** Model Satellite Competition.
-- 📫 **Connect:** Reach me on [LinkedIn](www.linkedin.com/in/semanurzorlu)
+  <br><br>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
-
-**Database & Cloud**
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Architecture & Concepts**
-![Onion Arch](https://img.shields.io/badge/Architecture-Onion-blue?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/Pattern-CQRS-green?style=for-the-badge)
-![RestAPI](https://img.shields.io/badge/API-RESTful-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 🌟 Featured Projects
+### 👩‍💻 About Me
 
-#### 🏛️ Virtual Support Assistant for Hadrianopolis (AI-Powered)
-*Supported by TÜBİTAK*
-- **Description:** A robust backend infrastructure for an interactive question panel allowing visitors to ask questions about artifacts.
-- **Tech:** .NET MVC, PostgreSQL, Large Language Models (LLM), QR Integration.
-- **Impact:** Currently deployed and actively used to enhance visitor engagement.
+Based in Turkey, I am a **Computer Engineering graduate** (2025) focused on backend technologies. I enjoy solving complex problems using **Onion Architecture**, **CQRS**, and **Microservices** principles. My passion lies in creating efficient, well-documented, and sustainable software solutions.
 
-#### 🏢 Scalable CRM Platform
-- **Description:** A comprehensive Customer Relationship Management system supporting multi-language content.
-- **Architecture:** Built using **Onion Architecture** and **CQRS** pattern.
-- **Tech:** ASP.NET Core, MS SQL Server, Entity Framework Core (Code-First), DTOs, Angular (Frontend).
-
-#### 🌐 Dynamic CMS & Web Application (Freelance)
-- **Description:** Transformed a static template into a dynamic web app with a custom Admin Dashboard.
-- **Tech:** .NET Core 8.0, MVC, Monolithic Architecture.
+* 🔭 I’m currently working on **Advanced .NET Core Applications**
+* 🌱 I’m currently learning **Cloud Architecture & Scalable Systems**
+* 🏆 **Achievements:**
+    * **TÜBİTAK Support:** AI-Powered Virtual Assistant Project
+    * **TEKNOFEST Finalist (2022):** Model Satellite Competition
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=semazorlu&show_icons=true&theme=radical" alt="semazorlu" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semazorlu&layout=compact&theme=radical" alt="semazorlu" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,mssql,git,github,postman,angular,docker&perline=10" />
+  </a>
+</div>
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🏛️ Hadrianopolis AI Assistant**<br>*(TÜBİTAK Supported)* | `.NET MVC` `PostgreSQL` `LLM` | AI-powered interactive guide deployed at the ancient city. Uses **LLM** for dynamic visitor responses. |
+| **🏢 CRM Ecosystem**<br>*(Internship Project)* | `.NET Core` `Onion Arch` `CQRS` | A scalable CRM platform featuring **Role-Based Auth**, Reporting, and **RESTful APIs** managed with **Entity Framework Core**. |
+| **⚡ Dynamic CMS**<br>*(Freelance)* | `.NET 8.0` `MVC` `MSSQL` | Custom admin dashboard and content management system built with **Monolithic Architecture** and **Code-First** approach. |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=semazorlu&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f&icon_color=3399FF" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semazorlu&layout=compact&theme=transparent&hide_border=true&title_color=3399FF&text_color=9f9f9f" height="150" alt="languages" />
+</div>
